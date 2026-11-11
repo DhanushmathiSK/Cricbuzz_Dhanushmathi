@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+requests
+# Optional, only if you switch DATABASE_URL to another database:
+# psycopg2-binary   # PostgreSQL
+# pymysql           # MySQL
